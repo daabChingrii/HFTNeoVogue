@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# HacktoberFest: NeoVogue
+“Fast Fashion” is the quick production of cheap and trendy clothes that prioritizes meeting consumer demand for the latest styles. Fast Fashion brands are known for designing and bringing new clothing to the market in a matter of a few weeks. These retailers frequently update their inventory to keep up with seasonal and trend-driven fashion changes. This means that they often have new collections or items available for purchase every few weeks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NeoVogue is a website that collaborates with Designers, Developers and Content Creators alike.
 
-## Available Scripts
+## How to contribute?
+- Fork this repository (Click the fork button in the top right of this page, click your Profile Image)
+- Clone your forked copy of the project (`git clone https://github.com/<your_user>/neovogue`)
+- Navigate into the folder `cd neovogue`
+- Add a reference(remote) to the original repo to pull latest code from upstream (i.e., Neovogue/Neovog
+ue):
+```bash
+$ git remote add upstream https://github.com/Neovogue/Neovogue
+```
+- Check the remotes for this repository using:
+```bash
+$ git remote -v
+origin  https://github.com/<your_user>/neovogue (fetch)
+origin  https://github.com/<your_user>/neovogue (push)
+upstream        https://github.com/Neovogue/Neovogue (fetch)
+upstream        https://github.com/Neovogue/Neovogue (push)
+```
+- Now, let's create a new branch!
+```bash
+# It will create a new branch with name Branch_Name and switch to it
+$ git checkout -b <Branch_Name>
+```
+- Create a file named `<username>.html`. For example if you are contributing as 'Ashutosh' then make sure there exists an html
+- Make necessary changes and commit those changes
+```bash
+# To add all files to staging area
+$ git add .
+# To add a specific file to staging area use:
+$ git add <some_file>
+# Type in a message relevant for the code reviewer using:
+$ git commit -m '<relevant message>'
+```
+- Push your awesome work to your remote repository using:
+```bash
+# First push your local branch to your remote repository
+$ git push origin <Branch_Name>
+```
+- Create a [PR](https://help.github.com/en/articles/creating-a-pull-request)!
 
-In the project directory, you can run:
+## HacktoberFest Guidelines to making your first PR:
+PR/MRs that are labeled with a label containing the word “spam” by maintainers will not be counted.
 
-### `npm start`
+HacktoberFest usea the Node.js 18 RegEx engine with /\bspam\b/i to look for spam labels.
+PR/MRs that also have the “hacktoberfest-accepted” label cannot be marked as spammy via a label.
+PR/MRs that have been merged and do not have a label containing the word “invalid” cannot be marked as spammy via a label.
+PR/MRs that the system detects as spammy will also not be counted.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Any user with two or more spammy PR/MRs will be disqualified.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Remember: Quantity is fun, Quality is key.
