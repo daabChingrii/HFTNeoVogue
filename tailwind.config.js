@@ -4,7 +4,6 @@ export const theme = {
   extend: {
     colors: {
       thBlue: "#35EEED",
-  
       thWhite: "#fff",
     },
   },
