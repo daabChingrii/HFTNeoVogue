@@ -1,4 +1,5 @@
-![Dark Gray and Beige Minimalist Quote Twitter Header (4)](https://github.com/ShubhangiXD/HFTNeoVogue/assets/92100787/f6d15096-42bd-4ccc-ad81-2c28d0b6f420)
+![Dark Gray and Beige Minimalist Quote Twitter Header (4)](https://github.com/daabChingrii/HFTNeoVogue/blob/master/public/NewVogueHB.png)
+
 # HacktoberFest: NeoVogue
 “Fast Fashion” is the quick production of cheap and trendy clothes that prioritizes meeting consumer demand for the latest styles. Fast Fashion brands are known for designing and bringing new clothing to the market in a matter of a few weeks. These retailers frequently update their inventory to keep up with seasonal and trend-driven fashion changes. This means that they often have new collections or items available for purchase every few weeks.
 
