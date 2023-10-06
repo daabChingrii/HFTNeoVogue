@@ -28,7 +28,7 @@ _“Fast Fashion”_ is the quick production of cheap and trendy clothes that pr
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/daabChingrii" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/daabChingrii/hacktoberfest2023/pulls"><img src="https://img.shields.io/github/issues-pr/ossamamehmood/hacktoberfest2023" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/daabChingrii/HFTNeoVogue/pulls"><img src="https://img.shields.io/github/issues-pr/daabChingrii/HFTNeoVogue" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/daabChingrii/HFTNeoVogue/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/daabChingrii/HFTNeoVogue?color=2b9348"></a>
 <a href="https://github.com/daabChingrii/HFTNeoVogue/blob/master/LICENSE"><img src="https://img.shields.io/github/license/ossamamehmood/hacktoberfest2023?color=2b9348" alt="License Badge"/></a>
 
