@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react";
-import heroVideo from "../Assets/Videos/bg-vid.mp4";
+import heroVideo from "./Assets/Videos/bg-vid.mp4";
 
 const HeroSection = ({ isMenuShown }) => {
   const [isVideoPlaying, setIsVideoPlaying] = useState(true);
